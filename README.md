@@ -28,4 +28,4 @@ You can reference QuBeads in publications as you would reference a book.
 
 <br>
 
-<img src="SpinDropsIcon.png" style="width: 200px; height: 200px; display: block; float: none; margin-left: auto; margin-right: auto;">
+<img src="QuBeadsIcon.png" style="width: 200px; height: 200px; display: block; float: none; margin-left: auto; margin-right: auto;">
