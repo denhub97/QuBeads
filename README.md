@@ -4,7 +4,7 @@ QuBeads is an interactive qubit simulation software that uses the BEADS Represen
 # How to install SpinDrops
 Download the binary for your operating system in releases (right) and follow the instructions below.
 ## Windows
-Run the installer file *QuBeads_1.0.0_beta1.exe*. Follow the onscreen instructions.
+Run the installer file *QuBeads_1.0.0_beta1.exe*. Follow the onscreen instructions. As this app is not included in the Microsoft App Store, running the installer may be blocked. In this case, allow Windows to run the installation manually.
 ## MacOS
 Open the image file *QuBeads_1.0.0_beta1.dmg*. Drag and drop QuBeads into your applications directory.<br>
 If your MacOS prevents QuBeads from opening after installation (due to this software not being distributed via the AppStore), you can still allow the software to run. Choose *System settings* in the *Apple menu*, click *Privacy & Security* and enable QuBeads to be opened.
@@ -17,7 +17,7 @@ Save the binary (*QuBeads_1.0.0_beta1.deb* or *QuBeads_1.0.0_beta1.rpm* dependin
 You can add SpinDrops to your system path by running<br>
 `PATH=${PATH}:/opt/QuBeads`
 
-# How to reference this version of QuBeads
+# How to reference QuBeads
 You can reference QuBeads in publications as you would reference a book.
 * Authors: Dennis Huber, Michael Tesch, Niklas J. Glaser, and Steffen J. Glaser
 * Title: QuBeads
