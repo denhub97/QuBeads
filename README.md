@@ -22,7 +22,7 @@ You can reference QuBeads in publications as you would reference a book.
 * Authors: Dennis Huber, Michael Tesch, Niklas J. Glaser, and Steffen J. Glaser
 * Title: QuBeads
 * Edition: 1.0.0-beta1
-* Address: Garching, Germany
+* Address: Technical University of Munich, Garching, Germany
 * Date of publication: 2024
 * Retrieved from: https://github.com/denhub97/QuBeads
 
