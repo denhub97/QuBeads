@@ -1,8 +1,13 @@
 # QuBeads
 QuBeads is an interactive qubit simulation software that uses the BEADS Representation to provide a rich visualization of qubit system dynamics in quantum information. The BEADS Representation is a general complete approach for the visualization of qubit system states. It is used in combination with a quantum-mechanical simulator to graphically visualize qubit system time evolution.
 
+# The BEADS representation
+QuBeads uses the BEADS representation (see https://arxiv.org/pdf/2410.01446) to visualize the dynamics of qubit systems.
+##Video showcase
+A high-resolution video showcasing various dynamical simulations underlying the figures in the article referenced above can be found in *Releases* (right). In the *Releases* section, navigate to *QuBeads-Video*. The video (*BEADS.mp4*) is available in the corresponding *Assets* dropdown.
+
 # How to install QuBeads
-Download the binary for your operating system in releases (right) and follow the instructions below.
+Download the binary for your operating system in *Releases* (right) and follow the instructions below.
 ## Windows
 Run the installer file *QuBeads_1.0.0_beta1.exe*. Follow the onscreen instructions. As this app is not included in the Microsoft App Store, running the installer may be blocked. In this case, allow Windows to run the installation manually.
 ## MacOS
