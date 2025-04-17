@@ -11,12 +11,12 @@ High-resolution videos showcasing various dynamical simulations underlying the f
 # How to install QuBeads
 Download the binary for your operating system in *Releases* (right) and follow the instructions below.
 ## Windows
-Run the installer file *QuBeads_1.0.0_beta1.exe*. Follow the onscreen instructions. As this app is not included in the Microsoft App Store, running the installer may be blocked. In this case, allow Windows to run the installation manually.
+Run the installer file *QuBeads_1.0.1_beta1.exe* (or other release versions). Follow the onscreen instructions. As this app is currently in its beta phase, it is not included in the Microsoft App Store, running the installer or even downloading the binary may be blocked. In this case, allow Windows to run the installation manually. Eventually, the Windows Defender real-time protection must be briefly disabled to enable the download and installation.
 ## MacOS
-Open the image file *QuBeads_1.0.0_beta1.dmg*. Drag and drop QuBeads into your applications directory.<br>
+Open the image file *QuBeads_1.0.1_beta1.dmg* (or other release versions). Drag and drop QuBeads into your applications directory.<br>
 If your MacOS prevents QuBeads from opening after installation (due to this software not being distributed via the AppStore), you can still allow the software to run. Choose *System settings* in the *Apple menu*, click *Privacy & Security* and enable QuBeads to be opened.
 ## Linux
-Save the binary (*QuBeads_1.0.0_beta1.deb* or *QuBeads_1.0.0_beta1.rpm* depending on your distribution) in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
+Save the binary (*QuBeads_1.0.1_beta1.deb* or *QuBeads_1.0.1_beta1.rpm* (or other release versions) corresponding to your Linux distribution) in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
 ### Debian/Ubuntu/Mint
 `sudo dpkg -i QuBeads_1.0.0_beta1.deb`
 ### RedHat/CentOS/Fedora
@@ -28,7 +28,7 @@ You can add SpinDrops to your system path by running<br>
 You can reference QuBeads in publications as you would reference a book.
 * Authors: Dennis Huber, Michael Tesch, Niklas J. Glaser, and Steffen J. Glaser
 * Title: QuBeads
-* Edition: 1.0.0-beta1
+* Edition: 1.0.1-beta1
 * Address: Technical University of Munich, Garching, Germany
 * Date of publication: 2024
 * Retrieved from: https://github.com/denhub97/QuBeads
