@@ -11,7 +11,7 @@ High-resolution videos showcasing various dynamical simulations underlying the f
 # How to install QuBeads
 Download the binary for your operating system in *Releases* (right) and follow the instructions below.
 ## Windows
-Run the installer file *QuBeads_1.0.1_beta1.exe* (or other release versions). Follow the onscreen instructions. As this app is currently in its beta phase, it is not included in the Microsoft App Store, running the installer or even downloading the binary may be blocked. In this case, allow Windows to run the installation manually. Eventually, the Windows Defender real-time protection must be briefly disabled to enable the download and installation.
+Run the installer file *QuBeads_1.0.1_beta1.exe* (or other release versions). Follow the onscreen instructions. As this app is currently in its beta phase, it is not included in the Microsoft App Store, running the installer or even downloading the binary may be blocked. In this case, allow Windows to run the installation manually. Possibly, the Windows Defender real-time protection must be briefly disabled to enable the download and installation.
 ## MacOS
 Open the image file *QuBeads_1.0.1_beta1.dmg* (or other release versions). Drag and drop QuBeads into your applications directory.<br>
 If your MacOS prevents QuBeads from opening after installation (due to this software not being distributed via the AppStore), you can still allow the software to run. Choose *System settings* in the *Apple menu*, click *Privacy & Security* and enable QuBeads to be opened.
